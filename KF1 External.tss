@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<ArrayOfArrayOfArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ArrayOfArrayOfString>
+    <ArrayOfString>
+      <string>C:\Projects\Cheats\KF1 External\KF1 External\main.cpp</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\Projects\Cheats\KF1 External\KF1 External\Features.cpp</string>
+      <string>C:\Projects\Cheats\KF1 External\KF1 External\Features.h</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\Projects\Cheats\KF1 External\KF1 External\Memory.cpp</string>
+      <string>C:\Projects\Cheats\KF1 External\KF1 External\Memory.h</string>
+    </ArrayOfString>
+  </ArrayOfArrayOfString>
+</ArrayOfArrayOfArrayOfString>
