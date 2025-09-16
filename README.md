@@ -15,7 +15,9 @@ Simple trainer for Killing Floor 1 made in C++
 # Features
 
 -Infinity Health
+
 -Infinity Ammo (Pistol Only)
+
 -SpeedHack
 
 # Screenshots
