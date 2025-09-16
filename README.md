@@ -22,6 +22,7 @@ Simple trainer for Killing Floor 1 made in C++
 
 # Screenshots
 
-<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/28bb58d7-d1f2-4df9-be44-2d82ed6a3ced" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/cee8578d-3097-4391-9992-493ac5cd6ee4" />
+
 
 
